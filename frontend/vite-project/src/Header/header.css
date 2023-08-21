@@ -27,10 +27,12 @@ header {
     width: 50%;
     font-weight: 700;
     margin-bottom: 0.5rem;
+    margin-left: 20px;
   }
   .info-age, .info-about {
       font-size:0.85rem;
       margin-bottom: 0.5rem;
+      margin-left: 20px;
   }
   
   .info-ava {
@@ -38,4 +40,5 @@ header {
     height: 130px;
     object-fit: cover;
     overflow: hidden;
+    margin-left: 20px;
   }
